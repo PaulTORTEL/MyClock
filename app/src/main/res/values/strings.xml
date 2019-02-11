@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">My Clock</string>
+    <string name="clock_title">Clock</string>
+    <string name="alarm_title">Alarm</string>
+    <string name="alarm_list_title">Your alarms</string>
+    <string name="alarm_list_subtitle">Touch the alarm buttons\nLong-touch an item for more actions</string>
+    <string name="alarm_creation_title">Create an alarm</string>
+    <string name="alarm_creation_title_edit">Edit an alarm</string>
+
+    <string name="title_activity_preferences">Customize the app</string>
+
+    <string name="alarm_creation_name">Name</string>
+    <string name="alarm_creation_create">Create</string>
+    <string name="alarm_creation_edit">Save modifications</string>
+
+    <string name="preferences_digits">Digits of the watch</string>
+
+    <string name="preferences_background_title">Background</string>
+    <string name="preferences_theme">Dark theme</string>
+    <string name="preferences_digits_full">Display all the digits</string>
+
+    <string name="preferences_hands">Hands of the watch</string>
+    <string name="preferences_marks">Marks on the watch</string>
+
+    <string name="preferences_marks_hour">Color of the marks for the hours</string>
+    <string name="preferences_marks_sec">Color of the marks for the seconds</string>
+
+    <string name="preferences_hands_sec">Hand for seconds</string>
+    <string name="preferences_hands_min">Hand for minutes</string>
+    <string name="preferences_hands_hour">Hand for hours</string>
+
+    <string name="preferences_thickness">Thickness</string>
+
+    <string-array name="digit_array">
+        <item>Numeric</item>
+        <item>Roman</item>
+    </string-array>
+
+    <string name="preferences_key_theme">theme</string>
+    <string name="preferences_key_digit_type">digit_type</string>
+    <string name="preferences_key_digit_color">digit_color</string>
+    <string name="preferences_key_digit_display">digit_display</string>
+    <string name="preferences_key_hand_sec_thick">hand_sec_thick</string>
+    <string name="preferences_key_hand_sec_color">hand_sec_color</string>
+    <string name="preferences_key_hand_min_thick">hand_min_thick</string>
+    <string name="preferences_key_hand_min_color">hand_min_color</string>
+    <string name="preferences_key_hand_hour_thick">hand_hour_thick</string>
+    <string name="preferences_key_hand_hour_color">hand_hour_color</string>
+    <string name="preferences_key_mark_hour_color">mark_hour_color</string>
+    <string name="preferences_key_mark_sec_color">mark_sec_color</string>
+
+    <string-array name="action_array">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+
+
+</resources>
